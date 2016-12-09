@@ -1,8 +1,13 @@
-# vue-router-test
+# vue-test
 
 > \
 
 ## Build Setup
+
+# clone project
+
+git clone https://github.com/yxcs/vue-test.git
+cd vue-test
 
 ``` bash
 # install dependencies

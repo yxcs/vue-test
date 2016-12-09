@@ -1,8 +1,8 @@
 {
-  "name": "vue-router-test",
+  "name": "vue-test",
   "version": "1.0.0",
-  "description": "test vue router",
-  "author": "keqi <keqi@ixiaopu.com>",
+  "description": "test vue",
+  "author": "yxcs <2741822345@qq.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
