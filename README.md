@@ -7,6 +7,7 @@
 # clone project
 
 git clone https://github.com/yxcs/vue-test.git
+# 
 cd vue-test
 
 ``` bash
