@@ -1,8 +1,4 @@
-# vue-test
-
 ## Build Setup
-
-clone project 
 
 ``` bash 
 git clone https://github.com/yxcs/vue-test.git
