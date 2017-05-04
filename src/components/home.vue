@@ -14,6 +14,7 @@
   	  <ul>
   	  	<li :class="{active : url === '/home'}"><img src="../assets/home.png"><router-link :to="{name: 'content'}">home</router-link></li>
   	  	<li :class="{active : url === '/charts'}"><img src="../assets/charts.png"><router-link :to="{name: 'charts'}">charts</router-link></li>
+      </ul>
   	</div>
   </div>
 </template>

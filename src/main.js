@@ -19,4 +19,4 @@ new Vue({
   },
   router,
   store: store.store
-}).$mount('#app')
+})
