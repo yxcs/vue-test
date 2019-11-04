@@ -1,3 +1,5 @@
 FROM nginx
 
-EXPOSE 80
+COPY dist/  /var/services/jenkins/
+
+RUN echo 'echo init ok!!'
